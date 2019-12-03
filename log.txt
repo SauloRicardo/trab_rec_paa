@@ -1,0 +1,50 @@
+rcsp1.txt
+Caminho encontrado : [1, 59, 63, 5, 34, 42, 14, 100]
+Custo do caminho : 311
+Tempo Utilizado :0.13390493392944336
+
+rcsp3.txt
+Caminho encontrado : [1, 5, 20, 26, 48, 66, 91, 93, 98, 100]
+Custo do caminho : 8
+Tempo Utilizado :0.0920569896697998
+
+rcsp6.txt
+Caminho encontrado : [1, 61, 24, 27, 100]
+Custo do caminho : 110
+Tempo Utilizado :0.1607503890991211
+
+rcsp7.txt
+Caminho encontrado : [1, 14, 32, 54, 77, 97, 99, 100]
+Custo do caminho : 6
+Tempo Utilizado :0.15007472038269043
+
+rcsp9.txt
+Caminho encontrado : [1, 105, 51, 200]
+Custo do caminho : 420
+Tempo Utilizado :0.20639872550964355
+
+rcsp11.txt
+Caminho encontrado : [1, 10, 33, 79, 100, 145, 181, 196, 198, 200]
+Custo do caminho : 10
+Tempo Utilizado :0.1840357780456543
+
+rcsp13.txt
+Caminho encontrado : [1, 62, 128, 173, 164, 50, 200]
+Custo do caminho : 397
+Tempo Utilizado :0.41060352325439453
+
+rcsp15.txt
+Caminho encontrado : [1, 35, 63, 104, 132, 174, 200]
+Custo do caminho : 7
+Tempo Utilizado :0.2967867851257324
+
+rcsp19.txt
+Caminho encontrado : [1, 111, 188, 309, 367, 473, 487, 500]
+Custo do caminho : 10
+Tempo Utilizado :0.5115015506744385
+
+rcsp21.txt
+Caminho encontrado : [1, 106, 342, 62, 188, 37, 165, 500]
+Custo do caminho : 1197
+Tempo Utilizado :0.9124085903167725
+
